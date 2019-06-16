@@ -176,7 +176,7 @@
   // Porfolio isotope and filter
   var portfolioIsotope = $('.portfolio-container').isotope({
     itemSelector: '.portfolio-item',
-    filter: '.filter-memberOfTheWeek',
+    filter: '.filter-familyGallery',
     layoutMode: 'fitRows'
   });
 
