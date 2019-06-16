@@ -141,24 +141,24 @@
   });
 
   // Intro carousel
-  var introCarousel = $(".carousel");
-  var introCarouselIndicators = $(".carousel-indicators");
-  introCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
-    (index === 0) ?
-    introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "' class='active'></li>") :
-    introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "'></li>");
-
-    $(this).css("background-image", "url('" + $(this).children('.carousel-background').children('img').attr('src') +"')");
-    $(this).children('.carousel-background').remove();
-  });
-
-  $(".carousel").swipe({
-    swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
-      if (direction == 'left') $(this).carousel('next');
-      if (direction == 'right') $(this).carousel('prev');
-    },
-    allowPageScroll:"vertical"
-  });
+  // var introCarousel = $(".carousel");
+  // var introCarouselIndicators = $(".carousel-indicators");
+  // introCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
+  //   (index === 0) ?
+  //   introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "' class='active'></li>") :
+  //   introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "'></li>");
+  //
+  //   $(this).css("background-image", "url('" + $(this).children('.carousel-background').children('img').attr('src') +"')");
+  //   $(this).children('.carousel-background').remove();
+  // });
+  //
+  // $(".carousel").swipe({
+  //   swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
+  //     if (direction == 'left') $(this).carousel('next');
+  //     if (direction == 'right') $(this).carousel('prev');
+  //   },
+  //   allowPageScroll:"vertical"
+  // });
 
   // Skills section
   $('#skills').waypoint(function() {
@@ -180,6 +180,39 @@
     layoutMode: 'fitRows'
   });
 
+  var humanitarianIsotope = $('.humanitarian-container').isotope({
+    itemSelector: '.humanitarian-item',
+    filter: '.filter-arduino',
+    layoutMode: 'fitRows'
+  });
+
+  var trainingIsotope = $('.training-container').isotope({
+    itemSelector: '.training-item',
+    filter: '.filter-arduino',
+    layoutMode: 'fitRows'
+  });
+
+  var eventsIsotope = $('.events-container').isotope({
+    itemSelector: '.events-item',
+    filter: '.filter-IEEEday',
+    layoutMode: 'fitRows'
+  });
+
+  $('#events-flters li').on( 'click', function() {
+    $("#events-flters li").removeClass('filter-active');
+    $(this).addClass('filter-active');
+
+    eventsIsotope.isotope({ filter: $(this).data('filter') });
+  });
+
+  $('#training-flters li').on( 'click', function() {
+    $("#training-flters li").removeClass('filter-active');
+    $(this).addClass('filter-active');
+
+    trainingIsotope.isotope({ filter: $(this).data('filter') });
+  });
+
+
   $('#portfolio-flters li').on( 'click', function() {
     $("#portfolio-flters li").removeClass('filter-active');
     $(this).addClass('filter-active');
@@ -187,22 +220,30 @@
     portfolioIsotope.isotope({ filter: $(this).data('filter') });
   });
 
-  // Clients carousel (uses the Owl Carousel library)
-  $(".clients-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    responsive: { 0: { items: 2 }, 768: { items: 4 }, 900: { items: 6 }
-    }
+  $('#humanitarian-flters li').on( 'click', function() {
+    $("#humanitarian-flters li").removeClass('filter-active');
+    $(this).addClass('filter-active');
+
+
+    humanitarianIsotope.isotope({filter: $(this).data('filter')});
   });
 
-  // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    items: 1
-  });
+  // // Clients carousel (uses the Owl Carousel library)
+  // $(".clients-carousel").owlCarousel({
+  //   autoplay: true,
+  //   dots: true,
+  //   loop: true,
+  //   responsive: { 0: { items: 2 }, 768: { items: 4 }, 900: { items: 6 }
+  //   }
+  // });
+
+  // // Testimonials carousel (uses the Owl Carousel library)
+  // $(".testimonials-carousel").owlCarousel({
+  //   autoplay: true,
+  //   dots: true,
+  //   loop: true,
+  //   items: 1
+  // });
 
 })(jQuery);
 
