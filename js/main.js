@@ -198,6 +198,19 @@
     layoutMode: 'fitRows'
   });
 
+  var IEEEDAYIsotope = $('.ieeeday-container').isotope({
+    itemSelector: '.ieeeday-item',
+    filter: '.filter-2019',
+    layoutMode: 'fitRows'
+  });
+
+  $('#ieeeday-flters li').on( 'click', function() {
+    $("#ieeeday-flters li").removeClass('filter-active');
+    $(this).addClass('filter-active');
+
+    IEEEDAYIsotope.isotope({ filter: $(this).data('filter') });
+  });
+
   $('#events-flters li').on( 'click', function() {
     $("#events-flters li").removeClass('filter-active');
     $(this).addClass('filter-active');
