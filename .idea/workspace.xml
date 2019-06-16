@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab05b016-bb9b-40a4-ac55-b03e31dd30d5" name="Default Changelist" comment="Fix Images of Awards">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14435091_877695515698774_5483658347095197213_o.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14435091_877695515698774_5483658347095197213_o.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
@@ -89,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -190,11 +190,11 @@
       <find>team</find>
       <find>#807100</find>
       <find>#7E1F27</find>
-      <find>#B4202E</find>
       <find>#D3AF37</find>
       <find>#51354B</find>
       <find>#88241F</find>
       <find>#18d26e</find>
+      <find>#B4202E</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,8 +204,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -277,7 +277,7 @@
       <workItem from="1560462988185" duration="6608000" />
       <workItem from="1560509037813" duration="41000" />
       <workItem from="1560585198863" duration="32181000" />
-      <workItem from="1560672768505" duration="42907000" />
+      <workItem from="1560672768505" duration="43382000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Images of Awards">
       <created>1560585406025</created>
@@ -290,7 +290,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81737000" />
+    <option name="totallyTimeSpent" value="82212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -327,68 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
-          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
-          <caret line="299" column="21" selection-start-line="299" selection-start-column="21" selection-end-line="299" selection-end-column="21" />
-          <caret line="304" column="16" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="16" />
-          <caret line="393" column="18" selection-start-line="393" selection-start-column="18" selection-end-line="393" selection-end-column="18" />
-          <caret line="421" column="16" selection-start-line="421" selection-start-column="16" selection-end-line="421" selection-end-column="16" />
-          <caret line="490" column="17" selection-start-line="490" selection-start-column="17" selection-end-line="490" selection-end-column="17" />
-          <caret line="498" column="17" selection-start-line="498" selection-start-column="17" selection-end-line="498" selection-end-column="17" />
-          <caret line="511" column="17" selection-start-line="511" selection-start-column="17" selection-end-line="511" selection-end-column="17" />
-          <caret line="519" column="18" selection-start-line="519" selection-start-column="18" selection-end-line="519" selection-end-column="18" />
-          <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
-          <caret line="615" column="16" selection-start-line="615" selection-start-column="16" selection-end-line="615" selection-end-column="16" />
-          <caret line="632" column="18" selection-start-line="632" selection-start-column="18" selection-end-line="632" selection-end-column="18" />
-          <caret line="690" column="29" selection-start-line="690" selection-start-column="29" selection-end-line="690" selection-end-column="29" />
-          <caret line="711" column="18" selection-start-line="711" selection-start-column="18" selection-end-line="711" selection-end-column="18" />
-          <caret line="728" column="16" selection-start-line="728" selection-start-column="16" selection-end-line="728" selection-end-column="16" />
-          <caret line="786" column="27" selection-start-line="786" selection-start-column="27" selection-end-line="786" selection-end-column="27" />
-          <caret line="807" column="16" selection-start-line="807" selection-start-column="16" selection-end-line="807" selection-end-column="16" />
-          <caret line="824" column="16" selection-start-line="824" selection-start-column="16" selection-end-line="824" selection-end-column="16" />
-          <caret line="882" column="28" selection-start-line="882" selection-start-column="28" selection-end-line="882" selection-end-column="28" />
-          <caret line="903" column="16" selection-start-line="903" selection-start-column="16" selection-end-line="903" selection-end-column="16" />
-          <caret line="920" column="17" selection-start-line="920" selection-start-column="17" selection-end-line="920" selection-end-column="17" />
-          <caret line="983" column="22" selection-start-line="983" selection-start-column="22" selection-end-line="983" selection-end-column="22" />
-          <caret line="1032" column="18" selection-start-line="1032" selection-start-column="18" selection-end-line="1032" selection-end-column="18" />
-          <caret line="1064" column="18" selection-start-line="1064" selection-start-column="18" selection-end-line="1064" selection-end-column="18" />
-          <caret line="1082" column="18" selection-start-line="1082" selection-start-column="18" selection-end-line="1082" selection-end-column="18" />
-          <caret line="1127" column="22" selection-start-line="1127" selection-start-column="22" selection-end-line="1127" selection-end-column="22" />
-          <caret line="1128" column="29" selection-start-line="1128" selection-start-column="29" selection-end-line="1128" selection-end-column="29" />
-          <caret line="1194" column="18" selection-start-line="1194" selection-start-column="18" selection-end-line="1194" selection-end-column="18" />
-          <caret line="1244" column="27" selection-start-line="1244" selection-start-column="27" selection-end-line="1244" selection-end-column="27" />
-          <caret line="1318" column="28" selection-start-line="1318" selection-start-column="28" selection-end-line="1318" selection-end-column="28" />
-          <caret line="1353" column="22" selection-start-line="1353" selection-start-column="22" selection-end-line="1353" selection-end-column="22" />
-          <caret line="1413" column="21" selection-start-line="1413" selection-start-column="21" selection-end-line="1413" selection-end-column="21" />
-          <caret line="1462" column="18" selection-start-line="1462" selection-start-column="18" selection-end-line="1462" selection-end-column="18" />
-          <caret line="1502" column="21" selection-start-line="1502" selection-start-column="21" selection-end-line="1502" selection-end-column="21" />
-          <caret line="1540" column="21" selection-start-line="1540" selection-start-column="21" selection-end-line="1540" selection-end-column="21" />
-          <caret line="1600" column="23" selection-start-line="1600" selection-start-column="23" selection-end-line="1600" selection-end-column="23" />
-          <caret line="1649" column="18" selection-start-line="1649" selection-start-column="18" selection-end-line="1649" selection-end-column="18" />
-          <caret line="1691" column="21" selection-start-line="1691" selection-start-column="21" selection-end-line="1691" selection-end-column="21" />
-          <caret line="1751" column="23" selection-start-line="1751" selection-start-column="23" selection-end-line="1751" selection-end-column="23" />
-          <caret line="1800" column="18" selection-start-line="1800" selection-start-column="18" selection-end-line="1800" selection-end-column="18" />
-          <caret line="1891" column="17" selection-start-line="1891" selection-start-column="17" selection-end-line="1891" selection-end-column="17" />
-          <caret line="1915" column="17" selection-start-line="1915" selection-start-column="17" selection-end-line="1915" selection-end-column="17" />
-          <caret line="1937" column="18" selection-start-line="1937" selection-start-column="18" selection-end-line="1937" selection-end-column="18" />
-          <caret line="1947" column="17" selection-start-line="1947" selection-start-column="17" selection-end-line="1947" selection-end-column="17" />
-          <caret line="1948" column="28" selection-start-line="1948" selection-start-column="28" selection-end-line="1948" selection-end-column="28" />
-          <caret line="1989" column="22" selection-start-line="1989" selection-start-column="22" selection-end-line="1989" selection-end-column="22" />
-          <caret line="1998" column="22" selection-start-line="1998" selection-start-column="22" selection-end-line="1998" selection-end-column="22" />
-          <caret line="2029" column="33" selection-start-line="2029" selection-start-column="33" selection-end-line="2029" selection-end-column="33" />
-          <caret line="2056" column="22" selection-start-line="2056" selection-start-column="22" selection-end-line="2056" selection-end-column="22" />
-          <caret line="2084" column="22" selection-start-line="2084" selection-start-column="22" selection-end-line="2084" selection-end-column="22" />
-          <caret line="2117" column="17" selection-start-line="2117" selection-start-column="17" selection-end-line="2117" selection-end-column="17" />
-          <caret line="2139" column="22" selection-start-line="2139" selection-start-column="22" selection-end-line="2139" selection-end-column="22" />
-          <caret line="2150" column="22" selection-start-line="2150" selection-start-column="22" selection-end-line="2150" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -459,6 +397,68 @@
             <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#137991#137997#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+          <caret line="299" column="21" selection-start-line="299" selection-start-column="21" selection-end-line="299" selection-end-column="21" />
+          <caret line="304" column="16" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="16" />
+          <caret line="393" column="18" selection-start-line="393" selection-start-column="18" selection-end-line="393" selection-end-column="18" />
+          <caret line="421" column="16" selection-start-line="421" selection-start-column="16" selection-end-line="421" selection-end-column="16" />
+          <caret line="490" column="17" selection-start-line="490" selection-start-column="17" selection-end-line="490" selection-end-column="17" />
+          <caret line="498" column="17" selection-start-line="498" selection-start-column="17" selection-end-line="498" selection-end-column="17" />
+          <caret line="511" column="17" selection-start-line="511" selection-start-column="17" selection-end-line="511" selection-end-column="17" />
+          <caret line="519" column="18" selection-start-line="519" selection-start-column="18" selection-end-line="519" selection-end-column="18" />
+          <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
+          <caret line="615" column="16" selection-start-line="615" selection-start-column="16" selection-end-line="615" selection-end-column="16" />
+          <caret line="632" column="18" selection-start-line="632" selection-start-column="18" selection-end-line="632" selection-end-column="18" />
+          <caret line="690" column="29" selection-start-line="690" selection-start-column="29" selection-end-line="690" selection-end-column="29" />
+          <caret line="711" column="18" selection-start-line="711" selection-start-column="18" selection-end-line="711" selection-end-column="18" />
+          <caret line="728" column="16" selection-start-line="728" selection-start-column="16" selection-end-line="728" selection-end-column="16" />
+          <caret line="786" column="27" selection-start-line="786" selection-start-column="27" selection-end-line="786" selection-end-column="27" />
+          <caret line="807" column="16" selection-start-line="807" selection-start-column="16" selection-end-line="807" selection-end-column="16" />
+          <caret line="824" column="16" selection-start-line="824" selection-start-column="16" selection-end-line="824" selection-end-column="16" />
+          <caret line="882" column="28" selection-start-line="882" selection-start-column="28" selection-end-line="882" selection-end-column="28" />
+          <caret line="903" column="16" selection-start-line="903" selection-start-column="16" selection-end-line="903" selection-end-column="16" />
+          <caret line="920" column="17" selection-start-line="920" selection-start-column="17" selection-end-line="920" selection-end-column="17" />
+          <caret line="983" column="22" selection-start-line="983" selection-start-column="22" selection-end-line="983" selection-end-column="22" />
+          <caret line="1032" column="18" selection-start-line="1032" selection-start-column="18" selection-end-line="1032" selection-end-column="18" />
+          <caret line="1064" column="18" selection-start-line="1064" selection-start-column="18" selection-end-line="1064" selection-end-column="18" />
+          <caret line="1082" column="18" selection-start-line="1082" selection-start-column="18" selection-end-line="1082" selection-end-column="18" />
+          <caret line="1127" column="22" selection-start-line="1127" selection-start-column="22" selection-end-line="1127" selection-end-column="22" />
+          <caret line="1128" column="29" selection-start-line="1128" selection-start-column="29" selection-end-line="1128" selection-end-column="29" />
+          <caret line="1194" column="18" selection-start-line="1194" selection-start-column="18" selection-end-line="1194" selection-end-column="18" />
+          <caret line="1244" column="27" selection-start-line="1244" selection-start-column="27" selection-end-line="1244" selection-end-column="27" />
+          <caret line="1318" column="28" selection-start-line="1318" selection-start-column="28" selection-end-line="1318" selection-end-column="28" />
+          <caret line="1353" column="22" selection-start-line="1353" selection-start-column="22" selection-end-line="1353" selection-end-column="22" />
+          <caret line="1413" column="21" selection-start-line="1413" selection-start-column="21" selection-end-line="1413" selection-end-column="21" />
+          <caret line="1462" column="18" selection-start-line="1462" selection-start-column="18" selection-end-line="1462" selection-end-column="18" />
+          <caret line="1502" column="21" selection-start-line="1502" selection-start-column="21" selection-end-line="1502" selection-end-column="21" />
+          <caret line="1540" column="21" selection-start-line="1540" selection-start-column="21" selection-end-line="1540" selection-end-column="21" />
+          <caret line="1600" column="23" selection-start-line="1600" selection-start-column="23" selection-end-line="1600" selection-end-column="23" />
+          <caret line="1649" column="18" selection-start-line="1649" selection-start-column="18" selection-end-line="1649" selection-end-column="18" />
+          <caret line="1691" column="21" selection-start-line="1691" selection-start-column="21" selection-end-line="1691" selection-end-column="21" />
+          <caret line="1751" column="23" selection-start-line="1751" selection-start-column="23" selection-end-line="1751" selection-end-column="23" />
+          <caret line="1800" column="18" selection-start-line="1800" selection-start-column="18" selection-end-line="1800" selection-end-column="18" />
+          <caret line="1891" column="17" selection-start-line="1891" selection-start-column="17" selection-end-line="1891" selection-end-column="17" />
+          <caret line="1915" column="17" selection-start-line="1915" selection-start-column="17" selection-end-line="1915" selection-end-column="17" />
+          <caret line="1937" column="18" selection-start-line="1937" selection-start-column="18" selection-end-line="1937" selection-end-column="18" />
+          <caret line="1947" column="17" selection-start-line="1947" selection-start-column="17" selection-end-line="1947" selection-end-column="17" />
+          <caret line="1948" column="28" selection-start-line="1948" selection-start-column="28" selection-end-line="1948" selection-end-column="28" />
+          <caret line="1989" column="22" selection-start-line="1989" selection-start-column="22" selection-end-line="1989" selection-end-column="22" />
+          <caret line="1998" column="22" selection-start-line="1998" selection-start-column="22" selection-end-line="1998" selection-end-column="22" />
+          <caret line="2029" column="33" selection-start-line="2029" selection-start-column="33" selection-end-line="2029" selection-end-column="33" />
+          <caret line="2056" column="22" selection-start-line="2056" selection-start-column="22" selection-end-line="2056" selection-end-column="22" />
+          <caret line="2084" column="22" selection-start-line="2084" selection-start-column="22" selection-end-line="2084" selection-end-column="22" />
+          <caret line="2117" column="17" selection-start-line="2117" selection-start-column="17" selection-end-line="2117" selection-end-column="17" />
+          <caret line="2139" column="22" selection-start-line="2139" selection-start-column="22" selection-end-line="2139" selection-end-column="22" />
+          <caret line="2150" column="22" selection-start-line="2150" selection-start-column="22" selection-end-line="2150" selection-end-column="22" />
         </state>
       </provider>
     </entry>
