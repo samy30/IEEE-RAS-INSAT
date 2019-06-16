@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="165" column="30" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
+            <state relative-caret-position="130">
+              <caret line="465" column="229" selection-start-line="465" selection-start-column="229" selection-end-line="465" selection-end-column="229" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -107,7 +107,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;a href=&quot;#&quot; class=&quot;link-details&quot; title=&quot;More Details&quot;&gt;&lt;i class=&quot;ion ion-android-open&quot;&gt;&lt;/i&gt;&lt;/a&gt;</find>
       <find>img</find>
       <find>.img</find>
       <find>activi</find>
@@ -137,6 +136,7 @@
       <find>NRW 2</find>
       <find>our skil</find>
       <find>about</find>
+      <find>participations in ev</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -219,7 +219,7 @@
       <workItem from="1560462988185" duration="6608000" />
       <workItem from="1560509037813" duration="41000" />
       <workItem from="1560585198863" duration="32181000" />
-      <workItem from="1560672768505" duration="34993000" />
+      <workItem from="1560672768505" duration="35540000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Images of Awards">
       <created>1560585406025</created>
@@ -232,7 +232,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73823000" />
+    <option name="totallyTimeSpent" value="74370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -281,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="165" column="30" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
+        <state relative-caret-position="130">
+          <caret line="465" column="229" selection-start-line="465" selection-start-column="229" selection-end-line="465" selection-end-column="229" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
