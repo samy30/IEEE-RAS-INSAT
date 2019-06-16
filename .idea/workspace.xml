@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab05b016-bb9b-40a4-ac55-b03e31dd30d5" name="Default Changelist" comment="Fix Images of Awards">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="465" column="229" selection-start-line="465" selection-start-column="229" selection-end-line="465" selection-end-column="229" />
+            <state relative-caret-position="121">
+              <caret line="401" column="113" selection-start-line="401" selection-start-column="113" selection-end-line="401" selection-end-column="113" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -107,7 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img</find>
       <find>.img</find>
       <find>activi</find>
       <find>facts</find>
@@ -137,6 +137,7 @@
       <find>our skil</find>
       <find>about</find>
       <find>participations in ev</find>
+      <find>ult robo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -219,7 +220,7 @@
       <workItem from="1560462988185" duration="6608000" />
       <workItem from="1560509037813" duration="41000" />
       <workItem from="1560585198863" duration="32181000" />
-      <workItem from="1560672768505" duration="35540000" />
+      <workItem from="1560672768505" duration="36949000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Images of Awards">
       <created>1560585406025</created>
@@ -232,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74370000" />
+    <option name="totallyTimeSpent" value="75779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -281,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="465" column="229" selection-start-line="465" selection-start-column="229" selection-end-line="465" selection-end-column="229" />
+        <state relative-caret-position="121">
+          <caret line="401" column="113" selection-start-line="401" selection-start-column="113" selection-end-line="401" selection-end-column="113" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
