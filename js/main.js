@@ -140,6 +140,12 @@
     });
   });
 
+    // Intro carousel
+    var introCarousel = $(".carousel");
+    introCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
+        $(this).css("background-image", "url('" + $(this).children('.carousel-background').children('img').attr('src') +"')");
+    });
+
   // Intro carousel
   // var introCarousel = $(".carousel");
   // var introCarouselIndicators = $(".carousel-indicators");

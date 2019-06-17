@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab05b016-bb9b-40a4-ac55-b03e31dd30d5" name="Default Changelist" comment="Fix Images of Awards">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1660" lean-forward="true" selection-start-line="1660" selection-end-line="1660" />
+            <state relative-caret-position="289">
+              <caret line="317" column="1" lean-forward="true" selection-start-line="317" selection-start-column="1" selection-end-line="317" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5502">
-              <caret line="262" selection-start-line="262" selection-end-line="262" />
+            <state relative-caret-position="147">
+              <caret line="146" column="7" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -36,11 +38,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="2242" column="23" selection-start-line="2242" selection-start-column="23" selection-end-line="2242" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="98" column="95" selection-start-line="98" selection-start-column="95" selection-end-line="98" selection-end-column="95" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#38695#38702#1" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -52,8 +53,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>about</find>
-      <find>participations in ev</find>
       <find>ult robo</find>
       <find>call t</find>
       <find>cta-btn</find>
@@ -82,6 +81,8 @@
       <find>#B4202E</find>
       <find>activi</find>
       <find>solidworks</find>
+      <find>favic</find>
+      <find>carousel-item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,8 +91,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -108,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,6 +130,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,6 +167,7 @@
       <workItem from="1560585198863" duration="32181000" />
       <workItem from="1560672768505" duration="44516000" />
       <workItem from="1560728145910" duration="582000" />
+      <workItem from="1560734656617" duration="2067000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Images of Awards">
       <created>1560585406025</created>
@@ -178,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85008000" />
+    <option name="totallyTimeSpent" value="87314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -213,25 +215,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1660" lean-forward="true" selection-start-line="1660" selection-end-line="1660" />
+        <state relative-caret-position="289">
+          <caret line="317" column="1" lean-forward="true" selection-start-line="317" selection-start-column="1" selection-end-line="317" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5502">
-          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        <state relative-caret-position="147">
+          <caret line="146" column="7" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="2242" column="23" selection-start-line="2242" selection-start-column="23" selection-end-line="2242" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="98" column="95" selection-start-line="98" selection-start-column="95" selection-end-line="98" selection-end-column="95" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38695#38702#1" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
