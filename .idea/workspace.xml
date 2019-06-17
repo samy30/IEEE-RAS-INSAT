@@ -2,87 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab05b016-bb9b-40a4-ac55-b03e31dd30d5" name="Default Changelist" comment="Fix Images of Awards">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/IEEEDay/2018/43408169_1386950411439946_8620959481536184320_o_1386950401439947.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Events/IEEEDay/2018/43408169_1386950411439946_8620959481536184320_o_1386950401439947.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/NRW/NRW1.0/description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/NRW/NRW2.0/Document sans titre.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/OtherEvents/IEEE_E/Desicription IEEE_E.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/OtherEvents/MeetTheRobots/Description meet the robots.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/OtherEvents/RoboticsWorkshop/Description Robotics workshop to IEEE INAT SB.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Events/OtherEvents/SpaceExpo/description space expo.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55476653_10216653813012153_666804332812828672_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55476653_10216653813012153_666804332812828672_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55543721_10216653808332036_7192013004479660032_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55543721_10216653808332036_7192013004479660032_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55564487_2304899366236826_5575250983413350400_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55564487_2304899366236826_5575250983413350400_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55575630_10216653807612018_4607164233908486144_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55575630_10216653807612018_4607164233908486144_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55576740_10216653810652094_4744883657334849536_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55576740_10216653810652094_4744883657334849536_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/55614035_2304901329569963_5464125439138070528_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/55614035_2304901329569963_5464125439138070528_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/56161574_2304900669570029_5923114523748728832_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/arduino/56161574_2304900669570029_5923114523748728832_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/arduino/description formation ecole.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15181462_915943081874017_5399242711001340467_n_915943081874017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15181462_915943081874017_5399242711001340467_n_915943081874017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15192782_915943555207303_8636969294881929385_n_915943555207303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15192782_915943555207303_8636969294881929385_n_915943555207303.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15194550_915944051873920_8667762840005986785_o_915944051873920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15194550_915944051873920_8667762840005986785_o_915944051873920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15202591_915943815207277_4683932816522385485_n_915943815207277.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15202591_915943815207277_4683932816522385485_n_915943815207277.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15220148_915943921873933_8711442568342319375_n_915943921873933.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15220148_915943921873933_8711442568342319375_n_915943921873933.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15220234_915943205207338_4254809023416447175_n_915943205207338.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15220234_915943205207338_4254809023416447175_n_915943205207338.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15235499_915945025207156_1688017384854885536_o_915945025207156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15235499_915945025207156_1688017384854885536_o_915945025207156.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15241317_915943078540684_3806859121114195497_n_915943078540684.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15241317_915943078540684_3806859121114195497_n_915943078540684.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15241990_915943538540638_6997520531601492401_n_915943538540638.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15241990_915943538540638_6997520531601492401_n_915943538540638.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15250951_915945275207131_3955259330526569747_o_915945275207131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15250951_915945275207131_3955259330526569747_o_915945275207131.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15253651_915943395207319_6943639368945728983_n_915943395207319.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15253651_915943395207319_6943639368945728983_n_915943395207319.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15267860_915943805207278_7762800263091534706_n_915943805207278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15267860_915943805207278_7762800263091534706_n_915943805207278.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15267917_915943215207337_7410755863726174849_n_915943215207337.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15267917_915943215207337_7410755863726174849_n_915943215207337.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15268040_915943398540652_4836820755132142278_n_915943398540652.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15268040_915943398540652_4836820755132142278_n_915943398540652.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/15271757_915943945207264_5543032430423649045_o_915943945207264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Humanitarian/star/15271757_915943945207264_5543032430423649045_o_915943945207264.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Humanitarian/star/Description STAR program.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14380058_877695589032100_8551385467524808051_o.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14380058_877695589032100_8551385467524808051_o.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14446101_877695405698785_8524708642184483216_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14446101_877695405698785_8524708642184483216_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14468724_877695482365444_5346834352551101057_o.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14468724_877695482365444_5346834352551101057_o.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14469677_877695599032099_9121072872960837251_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/14469677_877695599032099_9121072872960837251_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_144309.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_144309.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_151822.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_151822.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_154802.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_154802.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_164334.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/20181114_164334.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/44211340_1394092844059036_3342291159736123392_o_1394092840725703.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/44211340_1394092844059036_3342291159736123392_o_1394092840725703.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/44247669_1394093207392333_6627945114020872192_o_1394093204059000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/44247669_1394093207392333_6627945114020872192_o_1394093204059000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46302826_1415139125287741_3181846265482706944_o_1415139118621075.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46302826_1415139125287741_3181846265482706944_o_1415139118621075.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46302894_1415138995287754_8923916819509542912_o_1415138988621088.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46302894_1415138995287754_8923916819509542912_o_1415138988621088.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46362807_1415139461954374_4844990415767601152_o_1415139451954375.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46362807_1415139461954374_4844990415767601152_o_1415139451954375.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46431707_1415138931954427_3666432947155632128_o_1415138928621094.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Arduino/46431707_1415138931954427_3666432947155632128_o_1415138928621094.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150220.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150244.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150244.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150417.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_150417.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161124.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161211.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161232.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161252.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161427.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/NLP/20190424_161427.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/NLP/description PNL.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/12743823_756590474475946_7459645084152806375_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/12743823_756590474475946_7459645084152806375_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/12802892_760761504058843_5002027718103580612_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/12802892_760761504058843_5002027718103580612_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/12803102_760761534058840_4522297142621567572_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/12803102_760761534058840_4522297142621567572_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/12809764_760761530725507_7210349393090643723_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/12809764_760761530725507_7210349393090643723_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/62439757_347489916148276_3163017794576973824_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/62439757_347489916148276_3163017794576973824_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/62484282_2165921317040218_1422990499878273024_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/62484282_2165921317040218_1422990499878273024_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/62575445_601902410321076_2579293273323470848_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/62575445_601902410321076_2579293273323470848_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/62577491_867162226966610_7944586958020280320_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/62577491_867162226966610_7944586958020280320_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/64305013_881780778843606_6318174922828939264_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/64305013_881780778843606_6318174922828939264_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/64380068_2993305437560729_2375324301478854656_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/64380068_2993305437560729_2375324301478854656_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/64679089_600417420466914_2417956907068162048_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/64679089_600417420466914_2417956907068162048_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/STM/64723011_444075999718028_8338822749149462528_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/STM/64723011_444075999718028_8338822749149462528_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50836348_1474811692653817_2219984779015618560_o_1474811689320484.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50836348_1474811692653817_2219984779015618560_o_1474811689320484.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50928398_1474813322653654_4203578582443753472_o_1474813319320321.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50928398_1474813322653654_4203578582443753472_o_1474813319320321.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50992734_1474811825987137_7955119145543008256_o_1474811819320471.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/50992734_1474811825987137_7955119145543008256_o_1474811819320471.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/51082895_1474811722653814_3922548323826794496_o_1474811715987148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/51082895_1474811722653814_3922548323826794496_o_1474811715987148.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/51170978_1474811945987125_4667311020346179584_o_1474811939320459.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/51170978_1474811945987125_4667311020346179584_o_1474811939320459.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3121.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3121.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3182.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3182.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3187.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3187.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3190.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3190.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3210.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/IMG_3210.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TrainingSessions/Solidworks/description solid.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -99,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22344">
-              <caret line="1064" column="18" selection-start-line="1064" selection-start-column="11" selection-end-line="1064" selection-end-column="18" />
+            <state relative-caret-position="21">
+              <caret line="1660" lean-forward="true" selection-start-line="1660" selection-end-line="1660" />
             </state>
           </provider>
         </entry>
@@ -117,10 +36,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="142">
+              <caret line="2242" column="23" selection-start-line="2242" selection-start-column="23" selection-end-line="2242" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#38695#38702#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -130,7 +52,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>our skil</find>
       <find>about</find>
       <find>participations in ev</find>
       <find>ult robo</find>
@@ -160,6 +81,7 @@
       <find>usefull</find>
       <find>#B4202E</find>
       <find>activi</find>
+      <find>solidworks</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -256,7 +178,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83928000" />
+    <option name="totallyTimeSpent" value="85008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -291,8 +213,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22344">
-          <caret line="1064" column="18" selection-start-line="1064" selection-start-column="11" selection-end-line="1064" selection-end-column="18" />
+        <state relative-caret-position="21">
+          <caret line="1660" lean-forward="true" selection-start-line="1660" selection-end-line="1660" />
         </state>
       </provider>
     </entry>
@@ -305,10 +227,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        <state relative-caret-position="142">
+          <caret line="2242" column="23" selection-start-line="2242" selection-start-column="23" selection-end-line="2242" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#38695#38702#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
